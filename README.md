@@ -39,7 +39,7 @@ The bot:
 
 ### 1. 🔁 Clone or Fork the Repo
 
-```bash
+
 git clone https://github.com/danneba/n8n-nike-ai-agent.git
 cd nike-ai-agent
 
